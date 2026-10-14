@@ -2,7 +2,7 @@
 export const slides = [
     {
       id: 'cachorros', animal: 'Cachorrinhos', badge: 'CÃES',
-      image: '/images/cahorros.jpg', alt: 'Filhotes de cachorro em um campo florido',
+      image: '/images/cachorros.jpg', alt: 'Filhotes de cachorro em um campo florido',
       summary: 'Pequenos companheiros, grandes personalidades.',
       description: 'Raças pequenas são conhecidas por sua curiosidade, energia e apego aos tutores.',
     },
